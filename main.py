@@ -1,3 +1,6 @@
-from funcs import funcs
+from funcs import funcs, subtraction
+
 
 funcs()
+
+subtraction()
